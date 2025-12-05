@@ -1,0 +1,42 @@
+export const writers = [
+  {
+    id: 1,
+    name: "JS Khairen",
+    bio: "Penulis Indonesia dengan karya bertema keluarga dan anak muda.",
+    photo: "/jsk.webp",
+    born: "8 November 1990",
+    books: ["Garis Waktu", "Sebuah Seni untuk Bersikap Bodo Amat"],
+  },
+  {
+    id: 2,
+    name: "Tere Liye",
+    bio: "Penulis bestseller Indonesia, terkenal dengan cerita moral dan seri Bumi.",
+    photo: "/tereliye.webp",
+    born: "21 Mei 1979",
+    books: ["Negeri Para Bedebah", "Hujan", "Rindu", "Bumi", "Bulan", "Matahari"],
+  },
+  {
+    id: 3,
+    name: "Leila S. Chudori",
+    bio: "Indonesian writer & journalist.",
+    photo: "/leila.webp",
+    born: "12 Desember 1962",
+    books: ["Pulang", "Laut Bercerita"],
+  },
+  {
+    id: 4,
+    name: "JK Rowling",
+    bio: "Penulis Inggris pencipta dunia Harry Potter.",
+    photo: "/jkrowling.jpg",
+    born: "31 Juli 1965",
+    books: ["Harry Potter Series", "Fantastic Beasts"],
+  },
+  {
+    id: 5,
+    name: "Ananta Toer",
+    bio: "Sastrawan besar Indonesia, terkenal lewat Bumi Manusia.",
+    photo: "/ananta.jpeg",
+    born: "6 November 1925",
+    books: ["Bumi Manusia", "Anak Semua Bangsa", "Rumah Kaca"],
+  },
+];
